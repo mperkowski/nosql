@@ -49,6 +49,7 @@ Dane należy wpisać według schematu:
 1. [Pająkowski, Adrian](https://github.com/apajakowski/neo4j "neo4j public repo")
    - [Zadanie 1](https://github.com/apajakowski/zad1)
 1. [Perkowski, Maciej](https://github.com/mperkowski/Neo4j "neo4j public")
+2. [Zadanie 1](https://github.com/mperkowski/Mongo "import + GeoJSON")
 1. Michał Turzyński
    - [Zadanie 1 a-d](https://bitbucket.org/michal-at-bb/mongo_zadania/overview)
 1. [Wardzińska, Justyna](https://github.com/wardzinskaj/neo4jzadania "neo4j private repo")
